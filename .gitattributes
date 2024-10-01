@@ -1,0 +1,4 @@
+OriginalVideos/* filter=lfs diff=lfs merge=lfs -text
+object_removal/* filter=lfs diff=lfs merge=lfs -text
+video_compression_decompression_using_error_frames/* filter=lfs diff=lfs merge=lfs -text
+video_compression_decompression_using_motion_compensation/* filter=lfs diff=lfs merge=lfs -text
